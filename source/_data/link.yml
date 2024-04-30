@@ -1,5 +1,5 @@
-- class_name: 友情链接
-  class_desc: 那些人，那些事
+- class_name: Hexo官网
+  class_desc: Hexo官方网站
   link_list:
     - name: Hexo
       link: https://hexo.io/zh-tw/
@@ -9,15 +9,20 @@
 - class_name: 网站
   class_desc: 值得推荐的网站
   link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 视频网站
     - name: Font Awesome
       link: https://fontawesome.com/icons?from=io
       avatar: https://s2.loli.net/2024/04/29/z1nOgYiQ8bNXwcW.png
       descr: 博客使用的图标
-    - name: Twitter
-      link: https://twitter.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 社交分享平台
+
+- class_name: 大佬的链接
+  class_desc: 值得学习的大佬的网站
+  link_list:
+    - name: 张洪HEO
+      link: https://blog.zhheo.com/
+      avatar: https://s2.loli.net/2024/04/30/kYS1KGIbPrvsiZV.png
+      descr: 张洪HEO的博客
+    - name: Sunny's Blog
+      link: https://codersunny.com/
+      avatar: https://codersunny.com/img/avatar.png
+      descr: Sunny的博客
+      

@@ -3,7 +3,7 @@ title: 在Hexo博客中添加豆瓣主页：hexo-douban
 categories: 
 - 博客搭建
 description: 如何使用Hexo-douban插件给Hexo博客添豆瓣主页信息
-cover: https://s2.loli.net/2024/04/29/2KO3TEij78BkoxH.png
+cover: https://s2.loli.net/2024/04/30/yRGIMEUlmYkpaV1.png
 tags:
 - hexo
 - blog
