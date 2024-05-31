@@ -1,9 +1,9 @@
 ---
-title: Grid布局
+title: CSS基础（七）—— Grid布局
 categories: 
 - web前端
-description: Grid布局常规用法和常用属性
-cover: https://s2.loli.net/2024/04/29/2KO3TEij78BkoxH.png
+description: Grid布局
+cover: https://s2.loli.net/2024/05/31/amGM5lLo3j12UHh.png
 tags:
 - css
 - grid
