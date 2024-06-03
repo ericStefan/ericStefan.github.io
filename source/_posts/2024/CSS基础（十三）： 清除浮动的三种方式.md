@@ -1,5 +1,6 @@
 ---
-title: CSS基础（十三）—— 清除浮动的三种方式
+title: CSS基础（十三）：清除浮动的三种方式
+date: 2024-06-03 11:29:57
 categories: 
 - web前端
 description: css3种清除浮动的方式

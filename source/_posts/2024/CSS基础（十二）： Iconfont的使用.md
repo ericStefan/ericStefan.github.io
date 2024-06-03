@@ -1,5 +1,6 @@
 ---
-title: CSS基础（十二）—— Iconfont的使用
+title: CSS基础（十二）：Iconfont的使用
+date: 2024-06-03 11:28:57
 categories: 
 - web前端
 description: Iconfont的使用
@@ -7,7 +8,6 @@ cover: https://s2.loli.net/2024/05/31/T3XLStMGuHzQjEi.png
 tags:
 - css
 ---
-
 
 # Iconfont的使用
 

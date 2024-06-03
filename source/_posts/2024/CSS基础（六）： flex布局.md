@@ -1,11 +1,13 @@
 ---
-title: CSS基础（六）—— flex布局
+title: CSS基础（六）：flex布局
+date: 2024-06-03 11:20:10
 categories: 
 - web前端
 description: flex布局的原理及用法
 cover: https://s2.loli.net/2024/05/31/6L8AQRcW4fIdqpP.png
 tags:
 - css
+- flex
 ---
 
 # flex布局

@@ -1,5 +1,6 @@
 ---
-title: CSS基础（七）—— Grid布局
+title: CSS基础（七）：Grid布局
+date: 2024-06-03 11:21:43
 categories: 
 - web前端
 description: Grid布局
@@ -8,8 +9,6 @@ tags:
 - css
 - grid
 ---
-
-
 
 ## 一、概述
 

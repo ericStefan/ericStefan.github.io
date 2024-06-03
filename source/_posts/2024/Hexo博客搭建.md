@@ -192,7 +192,7 @@ hexo new post "article title"
 hexo g
 //本地预览
 hexo s
-//上传到github
+//上传到github，插件冲突使用 hexo deploy
 hexo d
 ```
 

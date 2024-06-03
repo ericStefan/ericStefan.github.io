@@ -1,5 +1,6 @@
 ---
-title: CSS基础（十四）—— block和inline
+title: CSS基础（十四）：block和inline
+date: 2024-06-03 11:30:47
 categories: 
 - web前端
 description: block和inline的区别

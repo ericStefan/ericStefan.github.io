@@ -1,5 +1,6 @@
 ---
-title: CSS基础（八）—— 背景
+title: CSS基础（八）：背景
+date: 2024-06-03 11:23:05
 categories: 
 - web前端
 description: CSS3背景相关属性及用法

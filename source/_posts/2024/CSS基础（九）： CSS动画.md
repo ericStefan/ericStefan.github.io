@@ -1,5 +1,6 @@
 ---
-title: CSS基础（九）—— CSS动画
+title: CSS基础（九）：CSS动画
+date: 2024-06-03 11:24:17
 categories: 
 - web前端
 description: CSS动画

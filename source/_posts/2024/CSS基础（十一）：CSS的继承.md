@@ -1,5 +1,6 @@
 ---
-title: CSS基础（十一）—— CSS的继承
+title: CSS基础（十一）：CSS的继承
+date: 2024-06-03 11:27:57
 categories: 
 - web前端
 description: CSS的继承

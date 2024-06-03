@@ -1,5 +1,6 @@
 ---
-title: CSS基础（二）—— 盒子模型
+title: CSS基础（二）：盒子模型
+date: 2024-06-03 11:12:08
 categories: 
 - web前端
 description: CSS盒模型

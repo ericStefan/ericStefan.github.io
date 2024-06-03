@@ -1,5 +1,6 @@
 ---
-title: CCSS基础（一）—— 文本修饰
+title: CSS基础（一）：文本修饰
+date: 2024-06-03 11:10:02
 categories: 
 - web前端
 description: CSS3文本修饰

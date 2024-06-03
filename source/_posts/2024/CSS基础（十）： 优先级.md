@@ -1,5 +1,6 @@
 ---
-title: CSS基础（十）—— 优先级
+title: CSS基础（十）：优先级
+date: 2024-06-03 11:26:39
 categories: 
 - web前端
 description: CSS优先级
@@ -84,4 +85,5 @@ div[class="nav"]{
         </div>
     </div>
 ```
+
 
